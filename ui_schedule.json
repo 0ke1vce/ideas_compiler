@@ -1,0 +1,51 @@
+{
+    "compiler_status": "Success",
+    "total_project_days": 12,
+    "tasks": [
+        {
+            "task_name": "Planning",
+            "start_day": 1,
+            "end_day": 2,
+            "duration": 2,
+            "assigned": "Alice",
+            "is_critical": true,
+            "slack_days": 0
+        },
+        {
+            "task_name": "UI_Design",
+            "start_day": 3,
+            "end_day": 6,
+            "duration": 4,
+            "assigned": "Charlie",
+            "is_critical": false,
+            "slack_days": 3
+        },
+        {
+            "task_name": "Backend_API",
+            "start_day": 3,
+            "end_day": 9,
+            "duration": 7,
+            "assigned": "Bob",
+            "is_critical": true,
+            "slack_days": 0
+        },
+        {
+            "task_name": "Setup_Servers",
+            "start_day": 3,
+            "end_day": 4,
+            "duration": 2,
+            "assigned": "Dave",
+            "is_critical": false,
+            "slack_days": 5
+        },
+        {
+            "task_name": "Integration",
+            "start_day": 10,
+            "end_day": 12,
+            "duration": 3,
+            "assigned": "Alice",
+            "is_critical": true,
+            "slack_days": 0
+        }
+    ]
+}

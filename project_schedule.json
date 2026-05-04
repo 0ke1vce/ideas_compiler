@@ -1,0 +1,24 @@
+{
+    "compiler_status": "Success",
+    "total_project_days": 12,
+    "tasks": [
+        {
+            "task_name": "Design",
+            "start_day": 1,
+            "end_day": 5,
+            "duration": 5
+        },
+        {
+            "task_name": "Backend",
+            "start_day": 6,
+            "end_day": 12,
+            "duration": 7
+        },
+        {
+            "task_name": "Frontend",
+            "start_day": 6,
+            "end_day": 9,
+            "duration": 4
+        }
+    ]
+}

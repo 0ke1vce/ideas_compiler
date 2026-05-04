@@ -1,6 +1,6 @@
 # 🚀 IDEAS: Intelligent Design & Execution Scripting Compiler
 
- ![Deployed Link](https://dslpmbygokukhushi.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Test_the_Compiler_Here!-success?style=for-the-badge&logo=streamlit)](https://dslpmbygokukhushi.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B.svg)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57.svg)
